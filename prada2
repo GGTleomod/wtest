@@ -22,10 +22,10 @@ MultiSelect Element Kullanımı:
 
 Music System Usage:
     local Window = OrionLib:MakeWindow({
-        Name = "Trixo Script Hub",
+        Name = "Leo4Kiddzzs Script Hub",
         Music = true, -- Müzik sistemini etkinleştir
         SaveConfig = true,
-        ConfigFolder = "TrixoScript"
+        ConfigFolder = "Leo4KiddzzsScript"
     })
 ]]
 
