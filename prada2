@@ -2376,7 +2376,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	KanistayLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 	KanistayLabel.Font = Enum.Font.GothamBlack
 	KanistayLabel.TextSize = 18
-	KanistayLabel.Text = "Trixo Hub"
+	KanistayLabel.Text = "Leo4Kiddzzs"
 	KanistayLabel.TextXAlignment = Enum.TextXAlignment.Center
 	KanistayLabel.TextYAlignment = Enum.TextYAlignment.Center
 	KanistayLabel.Rotation = -90
